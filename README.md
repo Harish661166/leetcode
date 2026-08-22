@@ -59,4 +59,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/Harish661166/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/Harish661166/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Harish661166/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/Harish661166/leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
