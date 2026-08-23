@@ -24,11 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Harish661166/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Harish661166/leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Harish661166/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Harish661166/leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Harish661166/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Harish661166/leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
