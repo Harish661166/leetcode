@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harish661166/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0198-house-robber](https://github.com/Harish661166/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0228-summary-ranges](https://github.com/Harish661166/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
