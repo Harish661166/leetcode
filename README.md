@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Harish661166/leetcode/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/Harish661166/leetcode/tree/main/0275-h-index-ii/) | Medium |
+| [0284-peeking-iterator](https://github.com/Harish661166/leetcode/tree/main/0284-peeking-iterator/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Harish661166/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0284-peeking-iterator](https://github.com/Harish661166/leetcode/tree/main/0284-peeking-iterator/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0282-expression-add-operators](https://github.com/Harish661166/leetcode/tree/main/0282-expression-add-operators/) | Hard |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0284-peeking-iterator](https://github.com/Harish661166/leetcode/tree/main/0284-peeking-iterator/) | Medium |
 <!---LeetCode Topics End-->
