@@ -10,12 +10,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Harish661166/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0228-summary-ranges](https://github.com/Harish661166/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Harish661166/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harish661166/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0229-majority-element-ii](https://github.com/Harish661166/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Harish661166/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Harish661166/leetcode/tree/main/0233-number-of-digit-one/) | Hard |
+| [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -41,10 +44,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Harish661166/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Harish661166/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -70,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Harish661166/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
