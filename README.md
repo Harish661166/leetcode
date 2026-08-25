@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Harish661166/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Harish661166/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harish661166/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Harish661166/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Harish661166/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Harish661166/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Harish661166/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harish661166/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +204,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Harish661166/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harish661166/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
