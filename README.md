@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harish661166/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0310-minimum-height-trees](https://github.com/Harish661166/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Harish661166/leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0310-minimum-height-trees](https://github.com/Harish661166/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,4 +220,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0310-minimum-height-trees](https://github.com/Harish661166/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0310-minimum-height-trees](https://github.com/Harish661166/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 <!---LeetCode Topics End-->
