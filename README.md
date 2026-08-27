@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0336-palindrome-pairs](https://github.com/Harish661166/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harish661166/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Harish661166/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/Harish661166/leetcode/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Harish661166/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Harish661166/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Harish661166/leetcode/tree/main/0274-h-index/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Harish661166/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/Harish661166/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harish661166/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Harish661166/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harish661166/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
