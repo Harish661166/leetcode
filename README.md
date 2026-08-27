@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Harish661166/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0279-perfect-squares](https://github.com/Harish661166/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0282-expression-add-operators](https://github.com/Harish661166/leetcode/tree/main/0282-expression-add-operators/) | Hard |
+| [0372-super-pow](https://github.com/Harish661166/leetcode/tree/main/0372-super-pow/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Harish661166/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Harish661166/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0372-super-pow](https://github.com/Harish661166/leetcode/tree/main/0372-super-pow/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,4 +260,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Euler's Totient Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/Harish661166/leetcode/tree/main/0372-super-pow/) | Medium |
+## Euler's Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/Harish661166/leetcode/tree/main/0372-super-pow/) | Medium |
 <!---LeetCode Topics End-->
