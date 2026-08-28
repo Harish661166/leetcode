@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Harish661166/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harish661166/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Harish661166/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Harish661166/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0336-palindrome-pairs](https://github.com/Harish661166/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harish661166/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Harish661166/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/Harish661166/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0372-super-pow](https://github.com/Harish661166/leetcode/tree/main/0372-super-pow/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harish661166/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Harish661166/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/Harish661166/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harish661166/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Harish661166/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,4 +300,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harish661166/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Harish661166/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 <!---LeetCode Topics End-->
