@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Harish661166/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0336-palindrome-pairs](https://github.com/Harish661166/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harish661166/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Harish661166/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Harish661166/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Harish661166/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Harish661166/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0337-house-robber-iii](https://github.com/Harish661166/leetcode/tree/main/0337-house-robber-iii/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Harish661166/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Harish661166/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/Harish661166/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
