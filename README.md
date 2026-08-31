@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Harish661166/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Harish661166/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Harish661166/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0382-linked-list-random-node](https://github.com/Harish661166/leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Harish661166/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +346,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0413-arithmetic-slices](https://github.com/Harish661166/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 <!---LeetCode Topics End-->
