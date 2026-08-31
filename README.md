@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Harish661166/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harish661166/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Harish661166/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0384-shuffle-an-array](https://github.com/Harish661166/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harish661166/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Harish661166/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Harish661166/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Harish661166/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/Harish661166/leetcode/tree/main/0476-number-complement/) | Easy |
+| [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
