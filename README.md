@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Harish661166/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Harish661166/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0481-magical-string](https://github.com/Harish661166/leetcode/tree/main/0481-magical-string/) | Medium |
+| [0482-license-key-formatting](https://github.com/Harish661166/leetcode/tree/main/0482-license-key-formatting/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
