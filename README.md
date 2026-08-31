@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/Harish661166/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Harish661166/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Harish661166/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Harish661166/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0385-mini-parser](https://github.com/Harish661166/leetcode/tree/main/0385-mini-parser/) | Medium |
+| [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Harish661166/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0481-magical-string](https://github.com/Harish661166/leetcode/tree/main/0481-magical-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/Harish661166/leetcode/tree/main/0482-license-key-formatting/) | Easy |
+| [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Harish661166/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Harish661166/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harish661166/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,4 +371,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/Harish661166/leetcode/tree/main/0480-sliding-window-median/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
 <!---LeetCode Topics End-->
