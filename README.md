@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Harish661166/leetcode/tree/main/0479-largest-palindrome-product/) | Hard |
+| [0537-complex-number-multiplication](https://github.com/Harish661166/leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/Harish661166/leetcode/tree/main/0481-magical-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/Harish661166/leetcode/tree/main/0482-license-key-formatting/) | Easy |
 | [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
+| [0537-complex-number-multiplication](https://github.com/Harish661166/leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Harish661166/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harish661166/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Harish661166/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0537-complex-number-multiplication](https://github.com/Harish661166/leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
