@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
 | [0542-01-matrix](https://github.com/Harish661166/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0546-remove-boxes](https://github.com/Harish661166/leetcode/tree/main/0546-remove-boxes/) | Hard |
+| [0552-student-attendance-record-ii](https://github.com/Harish661166/leetcode/tree/main/0552-student-attendance-record-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
