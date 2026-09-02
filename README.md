@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0480-sliding-window-median](https://github.com/Harish661166/leetcode/tree/main/0480-sliding-window-median/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harish661166/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/Harish661166/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Harish661166/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Harish661166/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
+| [0542-01-matrix](https://github.com/Harish661166/leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Harish661166/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harish661166/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
+| [0542-01-matrix](https://github.com/Harish661166/leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harish661166/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Harish661166/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0542-01-matrix](https://github.com/Harish661166/leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
