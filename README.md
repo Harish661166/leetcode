@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/Harish661166/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Harish661166/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Harish661166/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Harish661166/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Harish661166/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Harish661166/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Harish661166/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Harish661166/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Harish661166/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/Harish661166/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Harish661166/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
