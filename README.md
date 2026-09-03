@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0479-largest-palindrome-product](https://github.com/Harish661166/leetcode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0537-complex-number-multiplication](https://github.com/Harish661166/leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/Harish661166/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Harish661166/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Harish661166/leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/Harish661166/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Harish661166/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0481-magical-string](https://github.com/Harish661166/leetcode/tree/main/0481-magical-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Harish661166/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/Harish661166/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
