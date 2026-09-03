@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/Harish661166/leetcode/tree/main/0480-sliding-window-median/) | Hard |
 | [0554-brick-wall](https://github.com/Harish661166/leetcode/tree/main/0554-brick-wall/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harish661166/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/Harish661166/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish661166/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0564-find-the-closest-palindrome](https://github.com/Harish661166/leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
+| [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Harish661166/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Harish661166/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish661166/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0413-arithmetic-slices](https://github.com/Harish661166/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0480-sliding-window-median](https://github.com/Harish661166/leetcode/tree/main/0480-sliding-window-median/) | Hard |
+| [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
