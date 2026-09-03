@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0546-remove-boxes](https://github.com/Harish661166/leetcode/tree/main/0546-remove-boxes/) | Hard |
 | [0554-brick-wall](https://github.com/Harish661166/leetcode/tree/main/0554-brick-wall/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harish661166/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/Harish661166/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
+| [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Harish661166/leetcode/tree/main/0274-h-index/) | Medium |
+| [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/Harish661166/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
