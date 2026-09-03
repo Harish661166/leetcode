@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0552-student-attendance-record-ii](https://github.com/Harish661166/leetcode/tree/main/0552-student-attendance-record-ii/) | Hard |
 | [0576-out-of-boundary-paths](https://github.com/Harish661166/leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Harish661166/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/Harish661166/leetcode/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
