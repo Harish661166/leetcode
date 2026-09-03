@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0565-array-nesting](https://github.com/Harish661166/leetcode/tree/main/0565-array-nesting/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Harish661166/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Harish661166/leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Harish661166/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Harish661166/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0385-mini-parser](https://github.com/Harish661166/leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/Harish661166/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish661166/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -393,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/Harish661166/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -455,4 +460,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Harish661166/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
