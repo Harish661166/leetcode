@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0591-tag-validator](https://github.com/Harish661166/leetcode/tree/main/0591-tag-validator/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/Harish661166/leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Harish661166/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0591-tag-validator](https://github.com/Harish661166/leetcode/tree/main/0591-tag-validator/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
