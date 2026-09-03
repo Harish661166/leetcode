@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/Harish661166/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Harish661166/leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0598-range-addition-ii](https://github.com/Harish661166/leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/Harish661166/leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/Harish661166/leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0593-valid-square](https://github.com/Harish661166/leetcode/tree/main/0593-valid-square/) | Medium |
+| [0598-range-addition-ii](https://github.com/Harish661166/leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
