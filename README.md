@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0537-complex-number-multiplication](https://github.com/Harish661166/leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Harish661166/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0564-find-the-closest-palindrome](https://github.com/Harish661166/leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0551-student-attendance-record-i](https://github.com/Harish661166/leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Harish661166/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish661166/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0564-find-the-closest-palindrome](https://github.com/Harish661166/leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
