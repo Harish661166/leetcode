@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/Harish661166/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0480-sliding-window-median](https://github.com/Harish661166/leetcode/tree/main/0480-sliding-window-median/) | Hard |
+| [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harish661166/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Harish661166/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0546-remove-boxes](https://github.com/Harish661166/leetcode/tree/main/0546-remove-boxes/) | Hard |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Harish661166/leetcode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0537-complex-number-multiplication](https://github.com/Harish661166/leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
+| [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Harish661166/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/Harish661166/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0482-license-key-formatting](https://github.com/Harish661166/leetcode/tree/main/0482-license-key-formatting/) | Easy |
 | [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
 | [0537-complex-number-multiplication](https://github.com/Harish661166/leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
+| [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Harish661166/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Harish661166/leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
