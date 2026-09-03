@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Harish661166/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Harish661166/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Harish661166/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Harish661166/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0591-tag-validator](https://github.com/Harish661166/leetcode/tree/main/0591-tag-validator/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/Harish661166/leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harish661166/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
