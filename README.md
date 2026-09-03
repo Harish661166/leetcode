@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Harish661166/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0546-remove-boxes](https://github.com/Harish661166/leetcode/tree/main/0546-remove-boxes/) | Hard |
 | [0552-student-attendance-record-ii](https://github.com/Harish661166/leetcode/tree/main/0552-student-attendance-record-ii/) | Hard |
+| [0576-out-of-boundary-paths](https://github.com/Harish661166/leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
