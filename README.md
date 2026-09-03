@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/Harish661166/leetcode/tree/main/0554-brick-wall/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harish661166/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0565-array-nesting](https://github.com/Harish661166/leetcode/tree/main/0565-array-nesting/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Harish661166/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Harish661166/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Harish661166/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0565-array-nesting](https://github.com/Harish661166/leetcode/tree/main/0565-array-nesting/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
