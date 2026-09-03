@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harish661166/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Harish661166/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/Harish661166/leetcode/tree/main/0609-find-duplicate-file-in-system/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Harish661166/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/Harish661166/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harish661166/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Harish661166/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Harish661166/leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Harish661166/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harish661166/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Harish661166/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -427,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Harish661166/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Harish661166/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Harish661166/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
