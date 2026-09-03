@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Harish661166/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0372-super-pow](https://github.com/Harish661166/leetcode/tree/main/0372-super-pow/) | Medium |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Harish661166/leetcode/tree/main/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Harish661166/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Harish661166/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Harish661166/leetcode/tree/main/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Harish661166/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Harish661166/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Harish661166/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
