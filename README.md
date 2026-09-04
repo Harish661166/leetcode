@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/Harish661166/leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0593-valid-square](https://github.com/Harish661166/leetcode/tree/main/0593-valid-square/) | Medium |
 | [0598-range-addition-ii](https://github.com/Harish661166/leetcode/tree/main/0598-range-addition-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Harish661166/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harish661166/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harish661166/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Harish661166/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Harish661166/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Harish661166/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Harish661166/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
