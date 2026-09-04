@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Harish661166/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Harish661166/leetcode/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0629-k-inverse-pairs-array](https://github.com/Harish661166/leetcode/tree/main/0629-k-inverse-pairs-array/) | Hard |
+| [0639-decode-ways-ii](https://github.com/Harish661166/leetcode/tree/main/0639-decode-ways-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harish661166/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0609-find-duplicate-file-in-system](https://github.com/Harish661166/leetcode/tree/main/0609-find-duplicate-file-in-system/) | Medium |
+| [0639-decode-ways-ii](https://github.com/Harish661166/leetcode/tree/main/0639-decode-ways-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
