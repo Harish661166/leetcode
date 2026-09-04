@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Harish661166/leetcode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0636-exclusive-time-of-functions](https://github.com/Harish661166/leetcode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0591-tag-validator](https://github.com/Harish661166/leetcode/tree/main/0591-tag-validator/) | Hard |
+| [0636-exclusive-time-of-functions](https://github.com/Harish661166/leetcode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
