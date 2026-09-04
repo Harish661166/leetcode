@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0636-exclusive-time-of-functions](https://github.com/Harish661166/leetcode/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Harish661166/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Harish661166/leetcode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,11 +288,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/Harish661166/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Harish661166/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/Harish661166/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Harish661166/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Harish661166/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
