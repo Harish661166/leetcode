@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/Harish661166/leetcode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harish661166/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/Harish661166/leetcode/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Harish661166/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/Harish661166/leetcode/tree/main/0480-sliding-window-median/) | Hard |
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/Harish661166/leetcode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -488,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/Harish661166/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0480-sliding-window-median](https://github.com/Harish661166/leetcode/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
