@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/Harish661166/leetcode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harish661166/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0609-find-duplicate-file-in-system](https://github.com/Harish661166/leetcode/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Harish661166/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/Harish661166/leetcode/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
