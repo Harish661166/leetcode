@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Harish661166/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Harish661166/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Harish661166/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Harish661166/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Harish661166/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Harish661166/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Harish661166/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
