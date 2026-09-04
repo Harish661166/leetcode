@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0636-exclusive-time-of-functions](https://github.com/Harish661166/leetcode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Harish661166/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/Harish661166/leetcode/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Harish661166/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/Harish661166/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
