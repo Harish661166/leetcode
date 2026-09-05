@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Harish661166/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0648-replace-words](https://github.com/Harish661166/leetcode/tree/main/0648-replace-words/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0648-replace-words](https://github.com/Harish661166/leetcode/tree/main/0648-replace-words/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0609-find-duplicate-file-in-system](https://github.com/Harish661166/leetcode/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0639-decode-ways-ii](https://github.com/Harish661166/leetcode/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Harish661166/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0648-replace-words](https://github.com/Harish661166/leetcode/tree/main/0648-replace-words/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
@@ -461,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0336-palindrome-pairs](https://github.com/Harish661166/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
+| [0648-replace-words](https://github.com/Harish661166/leetcode/tree/main/0648-replace-words/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
