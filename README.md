@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0648-replace-words](https://github.com/Harish661166/leetcode/tree/main/0648-replace-words/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0372-super-pow](https://github.com/Harish661166/leetcode/tree/main/0372-super-pow/) | Medium |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Harish661166/leetcode/tree/main/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/Harish661166/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish661166/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/Harish661166/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish661166/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harish661166/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0591-tag-validator](https://github.com/Harish661166/leetcode/tree/main/0591-tag-validator/) | Hard |
 | [0636-exclusive-time-of-functions](https://github.com/Harish661166/leetcode/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -574,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish661166/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -590,4 +596,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
