@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Harish661166/leetcode/tree/main/0648-replace-words/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/Harish661166/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Harish661166/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Harish661166/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Harish661166/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Harish661166/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Harish661166/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Harish661166/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
