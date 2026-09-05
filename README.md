@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/Harish661166/leetcode/tree/main/0593-valid-square/) | Medium |
 | [0598-range-addition-ii](https://github.com/Harish661166/leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Harish661166/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/Harish661166/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/Harish661166/leetcode/tree/main/0639-decode-ways-ii/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Harish661166/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/Harish661166/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
