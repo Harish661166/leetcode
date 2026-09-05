@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harish661166/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Harish661166/leetcode/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0629-k-inverse-pairs-array](https://github.com/Harish661166/leetcode/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0639-decode-ways-ii](https://github.com/Harish661166/leetcode/tree/main/0639-decode-ways-ii/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Harish661166/leetcode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Harish661166/leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish661166/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -559,4 +563,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Harish661166/leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
