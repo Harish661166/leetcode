@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Harish661166/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harish661166/leetcode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0670-maximum-swap](https://github.com/Harish661166/leetcode/tree/main/0670-maximum-swap/) | Medium |
+| [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/Harish661166/leetcode/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Harish661166/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Harish661166/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish661166/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
