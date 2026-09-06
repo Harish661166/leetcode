@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Harish661166/leetcode/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
+| [0690-employee-importance](https://github.com/Harish661166/leetcode/tree/main/0690-employee-importance/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Harish661166/leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/Harish661166/leetcode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/Harish661166/leetcode/tree/main/0677-map-sum-pairs/) | Medium |
+| [0690-employee-importance](https://github.com/Harish661166/leetcode/tree/main/0690-employee-importance/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0669-trim-a-binary-search-tree](https://github.com/Harish661166/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Harish661166/leetcode/tree/main/0687-longest-univalue-path/) | Medium |
+| [0690-employee-importance](https://github.com/Harish661166/leetcode/tree/main/0690-employee-importance/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Harish661166/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Harish661166/leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0687-longest-univalue-path](https://github.com/Harish661166/leetcode/tree/main/0687-longest-univalue-path/) | Medium |
+| [0690-employee-importance](https://github.com/Harish661166/leetcode/tree/main/0690-employee-importance/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/Harish661166/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Harish661166/leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0690-employee-importance](https://github.com/Harish661166/leetcode/tree/main/0690-employee-importance/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
