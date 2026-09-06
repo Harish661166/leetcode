@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/Harish661166/leetcode/tree/main/0664-strange-printer/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0688-knight-probability-in-chessboard](https://github.com/Harish661166/leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
