@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/Harish661166/leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0665-non-decreasing-array](https://github.com/Harish661166/leetcode/tree/main/0665-non-decreasing-array/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
