@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0655-print-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Harish661166/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0655-print-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Harish661166/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0655-print-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Harish661166/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
