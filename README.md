@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Harish661166/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0664-strange-printer](https://github.com/Harish661166/leetcode/tree/main/0664-strange-printer/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0591-tag-validator](https://github.com/Harish661166/leetcode/tree/main/0591-tag-validator/) | Hard |
 | [0636-exclusive-time-of-functions](https://github.com/Harish661166/leetcode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/Harish661166/leetcode/tree/main/0664-strange-printer/) | Hard |
 | [0676-implement-magic-dictionary](https://github.com/Harish661166/leetcode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/Harish661166/leetcode/tree/main/0677-map-sum-pairs/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
@@ -565,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Harish661166/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Harish661166/leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0670-maximum-swap](https://github.com/Harish661166/leetcode/tree/main/0670-maximum-swap/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -657,4 +661,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
