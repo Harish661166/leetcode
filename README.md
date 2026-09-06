@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Harish661166/leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0661-image-smoother](https://github.com/Harish661166/leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0665-non-decreasing-array](https://github.com/Harish661166/leetcode/tree/main/0665-non-decreasing-array/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Harish661166/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Harish661166/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0664-strange-printer](https://github.com/Harish661166/leetcode/tree/main/0664-strange-printer/) | Hard |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,10 +504,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -638,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Cartesian Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
