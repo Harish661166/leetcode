@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Harish661166/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/Harish661166/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Harish661166/leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0279-perfect-squares](https://github.com/Harish661166/leetcode/tree/main/0279-perfect-squares/) | Medium |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Harish661166/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0273-integer-to-english-words](https://github.com/Harish661166/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0282-expression-add-operators](https://github.com/Harish661166/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0290-word-pattern](https://github.com/Harish661166/leetcode/tree/main/0290-word-pattern/) | Easy |
