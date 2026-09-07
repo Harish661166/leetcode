@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/Harish661166/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Harish661166/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0693-binary-number-with-alternating-bits](https://github.com/Harish661166/leetcode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0688-knight-probability-in-chessboard](https://github.com/Harish661166/leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Harish661166/leetcode/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/Harish661166/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0306-additive-number](https://github.com/Harish661166/leetcode/tree/main/0306-additive-number/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -672,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
 | [0546-remove-boxes](https://github.com/Harish661166/leetcode/tree/main/0546-remove-boxes/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -717,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
