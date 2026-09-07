@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0699-falling-squares](https://github.com/Harish661166/leetcode/tree/main/0699-falling-squares/) | Hard |
 | [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Harish661166/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harish661166/leetcode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0670-maximum-swap](https://github.com/Harish661166/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Harish661166/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Harish661166/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harish661166/leetcode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
+| [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -263,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Harish661166/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Harish661166/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -659,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/Harish661166/leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Harish661166/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
