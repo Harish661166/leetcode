@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0696-count-binary-substrings](https://github.com/Harish661166/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Harish661166/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish661166/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Harish661166/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0696-count-binary-substrings](https://github.com/Harish661166/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
