@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Harish661166/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0693-binary-number-with-alternating-bits](https://github.com/Harish661166/leetcode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
