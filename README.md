@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/Harish661166/leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0707-design-linked-list](https://github.com/Harish661166/leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/Harish661166/leetcode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harish661166/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0707-design-linked-list](https://github.com/Harish661166/leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
