@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/Harish661166/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0699-falling-squares](https://github.com/Harish661166/leetcode/tree/main/0699-falling-squares/) | Hard |
+| [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Harish661166/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
+| [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Harish661166/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Harish661166/leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0641-design-circular-deque](https://github.com/Harish661166/leetcode/tree/main/0641-design-circular-deque/) | Medium |
+| [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0676-implement-magic-dictionary](https://github.com/Harish661166/leetcode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/Harish661166/leetcode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harish661166/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -600,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0336-palindrome-pairs](https://github.com/Harish661166/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Harish661166/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
