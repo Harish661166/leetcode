@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0688-knight-probability-in-chessboard](https://github.com/Harish661166/leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Harish661166/leetcode/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Counting Sort
