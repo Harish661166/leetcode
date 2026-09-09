@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0724-find-pivot-index](https://github.com/Harish661166/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Harish661166/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harish661166/leetcode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
+| [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harish661166/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Harish661166/leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/Harish661166/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harish661166/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0699-falling-squares](https://github.com/Harish661166/leetcode/tree/main/0699-falling-squares/) | Hard |
+| [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -761,4 +765,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0699-falling-squares](https://github.com/Harish661166/leetcode/tree/main/0699-falling-squares/) | Hard |
+| [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 <!---LeetCode Topics End-->
