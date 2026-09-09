@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0699-falling-squares](https://github.com/Harish661166/leetcode/tree/main/0699-falling-squares/) | Hard |
 | [0706-design-hashmap](https://github.com/Harish661166/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
+| [0724-find-pivot-index](https://github.com/Harish661166/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/Harish661166/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harish661166/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Harish661166/leetcode/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
+| [0724-find-pivot-index](https://github.com/Harish661166/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Indexed Tree
