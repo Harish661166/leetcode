@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Harish661166/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0707-design-linked-list](https://github.com/Harish661166/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Harish661166/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Harish661166/leetcode/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0724-find-pivot-index](https://github.com/Harish661166/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Harish661166/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Indexed Tree
@@ -603,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0699-falling-squares](https://github.com/Harish661166/leetcode/tree/main/0699-falling-squares/) | Hard |
 | [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Harish661166/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -774,4 +778,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0699-falling-squares](https://github.com/Harish661166/leetcode/tree/main/0699-falling-squares/) | Hard |
 | [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Harish661166/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 <!---LeetCode Topics End-->
