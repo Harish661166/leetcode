@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Harish661166/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Harish661166/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
+| [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Harish661166/leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -663,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Harish661166/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Harish661166/leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/Harish661166/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -838,4 +841,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
+## Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 <!---LeetCode Topics End-->
