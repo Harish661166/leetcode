@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Harish661166/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/Harish661166/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Harish661166/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [0736-parse-lisp-expression](https://github.com/Harish661166/leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0740-delete-and-earn](https://github.com/Harish661166/leetcode/tree/main/0740-delete-and-earn/) | Medium |
+| [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Harish661166/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Harish661166/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
+| [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Harish661166/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [0730-count-different-palindromic-subsequences](https://github.com/Harish661166/leetcode/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0736-parse-lisp-expression](https://github.com/Harish661166/leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
+| [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -655,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0676-implement-magic-dictionary](https://github.com/Harish661166/leetcode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/Harish661166/leetcode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
