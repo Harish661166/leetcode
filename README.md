@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Harish661166/leetcode/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0730-count-different-palindromic-subsequences](https://github.com/Harish661166/leetcode/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Harish661166/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/Harish661166/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0726-number-of-atoms](https://github.com/Harish661166/leetcode/tree/main/0726-number-of-atoms/) | Hard |
+| [0730-count-different-palindromic-subsequences](https://github.com/Harish661166/leetcode/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
