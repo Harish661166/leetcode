@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harish661166/leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0764-largest-plus-sign](https://github.com/Harish661166/leetcode/tree/main/0764-largest-plus-sign/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0730-count-different-palindromic-subsequences](https://github.com/Harish661166/leetcode/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0740-delete-and-earn](https://github.com/Harish661166/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Harish661166/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0764-largest-plus-sign](https://github.com/Harish661166/leetcode/tree/main/0764-largest-plus-sign/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
