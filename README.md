@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harish661166/leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0764-largest-plus-sign](https://github.com/Harish661166/leetcode/tree/main/0764-largest-plus-sign/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/Harish661166/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Harish661166/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Harish661166/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
+| [0766-toeplitz-matrix](https://github.com/Harish661166/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
