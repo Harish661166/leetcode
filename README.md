@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Harish661166/leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harish661166/leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harish661166/leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0761-special-binary-string](https://github.com/Harish661166/leetcode/tree/main/0761-special-binary-string/) | Hard |
+| [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Harish661166/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/Harish661166/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0761-special-binary-string](https://github.com/Harish661166/leetcode/tree/main/0761-special-binary-string/) | Hard |
+| [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -636,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harish661166/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Harish661166/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -726,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harish661166/leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
