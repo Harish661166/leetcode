@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0372-super-pow](https://github.com/Harish661166/leetcode/tree/main/0372-super-pow/) | Medium |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Harish661166/leetcode/tree/main/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0761-special-binary-string](https://github.com/Harish661166/leetcode/tree/main/0761-special-binary-string/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Harish661166/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harish661166/leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harish661166/leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0761-special-binary-string](https://github.com/Harish661166/leetcode/tree/main/0761-special-binary-string/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0748-shortest-completing-word](https://github.com/Harish661166/leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
+| [0761-special-binary-string](https://github.com/Harish661166/leetcode/tree/main/0761-special-binary-string/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
