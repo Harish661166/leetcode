@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0748-shortest-completing-word](https://github.com/Harish661166/leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/Harish661166/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0710-random-pick-with-blacklist](https://github.com/Harish661166/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/Harish661166/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/Harish661166/leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0273-integer-to-english-words](https://github.com/Harish661166/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0736-parse-lisp-expression](https://github.com/Harish661166/leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
+| [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0736-parse-lisp-expression](https://github.com/Harish661166/leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0739-daily-temperatures](https://github.com/Harish661166/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Harish661166/leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
+| [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0761-special-binary-string](https://github.com/Harish661166/leetcode/tree/main/0761-special-binary-string/) | Hard |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
