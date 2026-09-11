@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
+| [0771-jewels-and-stones](https://github.com/Harish661166/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/Harish661166/leetcode/tree/main/0761-special-binary-string/) | Hard |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
+| [0771-jewels-and-stones](https://github.com/Harish661166/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
