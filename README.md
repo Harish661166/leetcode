@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0781-rabbits-in-forest](https://github.com/Harish661166/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/Harish661166/leetcode/tree/main/0782-transform-to-chessboard/) | Hard |
 | [0789-escape-the-ghosts](https://github.com/Harish661166/leetcode/tree/main/0789-escape-the-ghosts/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Harish661166/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/Harish661166/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0791-custom-sort-string](https://github.com/Harish661166/leetcode/tree/main/0791-custom-sort-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Combinatorics
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0788-rotated-digits](https://github.com/Harish661166/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/Harish661166/leetcode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Database
@@ -344,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Harish661166/leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0791-custom-sort-string](https://github.com/Harish661166/leetcode/tree/main/0791-custom-sort-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -563,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-swap-adjacent-in-lr-string](https://github.com/Harish661166/leetcode/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Harish661166/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0791-custom-sort-string](https://github.com/Harish661166/leetcode/tree/main/0791-custom-sort-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -753,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/Harish661166/leetcode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Harish661166/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
+| [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
