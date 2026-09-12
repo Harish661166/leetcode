@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-global-and-local-inversions](https://github.com/Harish661166/leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0781-rabbits-in-forest](https://github.com/Harish661166/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0782-transform-to-chessboard](https://github.com/Harish661166/leetcode/tree/main/0782-transform-to-chessboard/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-k-th-symbol-in-grammar](https://github.com/Harish661166/leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0780-reaching-points](https://github.com/Harish661166/leetcode/tree/main/0780-reaching-points/) | Hard |
 | [0781-rabbits-in-forest](https://github.com/Harish661166/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0782-transform-to-chessboard](https://github.com/Harish661166/leetcode/tree/main/0782-transform-to-chessboard/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/Harish661166/leetcode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/Harish661166/leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [0782-transform-to-chessboard](https://github.com/Harish661166/leetcode/tree/main/0782-transform-to-chessboard/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -643,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/Harish661166/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0782-transform-to-chessboard](https://github.com/Harish661166/leetcode/tree/main/0782-transform-to-chessboard/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
