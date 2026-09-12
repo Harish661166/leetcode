@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/Harish661166/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0775-global-and-local-inversions](https://github.com/Harish661166/leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/Harish661166/leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Harish661166/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0736-parse-lisp-expression](https://github.com/Harish661166/leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
+| [0779-k-th-symbol-in-grammar](https://github.com/Harish661166/leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0693-binary-number-with-alternating-bits](https://github.com/Harish661166/leetcode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/Harish661166/leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
