@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/Harish661166/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Harish661166/leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0775-global-and-local-inversions](https://github.com/Harish661166/leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Harish661166/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Combinatorics
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -631,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Harish661166/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/Harish661166/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -659,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harish661166/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Harish661166/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -822,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0685-redundant-connection-ii](https://github.com/Harish661166/leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/Harish661166/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -882,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Harish661166/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -898,4 +906,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
