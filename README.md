@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Harish661166/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Harish661166/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0764-largest-plus-sign](https://github.com/Harish661166/leetcode/tree/main/0764-largest-plus-sign/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Database
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -681,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Harish661166/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -727,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -906,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Harish661166/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
