@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -724,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Harish661166/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -844,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Harish661166/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -927,4 +931,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
