@@ -536,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0771-jewels-and-stones](https://github.com/Harish661166/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Harish661166/leetcode/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish661166/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Harish661166/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Harish661166/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Harish661166/leetcode/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
