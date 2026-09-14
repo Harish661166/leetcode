@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-valid-tic-tac-toe-state](https://github.com/Harish661166/leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Harish661166/leetcode/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Harish661166/leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0803-bricks-falling-when-hit](https://github.com/Harish661166/leetcode/tree/main/0803-bricks-falling-when-hit/) | Hard |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -682,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0782-transform-to-chessboard](https://github.com/Harish661166/leetcode/tree/main/0782-transform-to-chessboard/) | Hard |
 | [0794-valid-tic-tac-toe-state](https://github.com/Harish661166/leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
+| [0803-bricks-falling-when-hit](https://github.com/Harish661166/leetcode/tree/main/0803-bricks-falling-when-hit/) | Hard |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -885,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0803-bricks-falling-when-hit](https://github.com/Harish661166/leetcode/tree/main/0803-bricks-falling-when-hit/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
