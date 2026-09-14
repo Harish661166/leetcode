@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-escape-the-ghosts](https://github.com/Harish661166/leetcode/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/Harish661166/leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Harish661166/leetcode/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -724,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Harish661166/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Harish661166/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/Harish661166/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Harish661166/leetcode/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harish661166/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harish661166/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Indexed Tree
