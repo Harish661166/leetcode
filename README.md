@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Harish661166/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/Harish661166/leetcode/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Harish661166/leetcode/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
+| [0836-rectangle-overlap](https://github.com/Harish661166/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -849,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0593-valid-square](https://github.com/Harish661166/leetcode/tree/main/0593-valid-square/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Harish661166/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 ## Rejection Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
