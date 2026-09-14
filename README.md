@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/Harish661166/leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Harish661166/leetcode/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Harish661166/leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0790-domino-and-tromino-tiling](https://github.com/Harish661166/leetcode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0799-champagne-tower](https://github.com/Harish661166/leetcode/tree/main/0799-champagne-tower/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Harish661166/leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Database
