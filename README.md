@@ -607,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-number-of-lines-to-write-string](https://github.com/Harish661166/leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0809-expressive-words](https://github.com/Harish661166/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Harish661166/leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0816-ambiguous-coordinates](https://github.com/Harish661166/leetcode/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Harish661166/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Harish661166/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0816-ambiguous-coordinates](https://github.com/Harish661166/leetcode/tree/main/0816-ambiguous-coordinates/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -853,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0479-largest-palindrome-product](https://github.com/Harish661166/leetcode/tree/main/0479-largest-palindrome-product/) | Hard |
+| [0816-ambiguous-coordinates](https://github.com/Harish661166/leetcode/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
