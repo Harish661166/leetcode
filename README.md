@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Harish661166/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0809-expressive-words](https://github.com/Harish661166/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Harish661166/leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0812-largest-triangle-area](https://github.com/Harish661166/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-escape-the-ghosts](https://github.com/Harish661166/leetcode/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Harish661166/leetcode/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0805-split-array-with-same-average](https://github.com/Harish661166/leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0812-largest-triangle-area](https://github.com/Harish661166/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Harish661166/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
@@ -885,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Harish661166/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0593-valid-square](https://github.com/Harish661166/leetcode/tree/main/0593-valid-square/) | Medium |
+| [0812-largest-triangle-area](https://github.com/Harish661166/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Harish661166/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 ## Rejection Sampling
 | Problem Name | Difficulty |
@@ -1013,4 +1016,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0805-split-array-with-same-average](https://github.com/Harish661166/leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Harish661166/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
