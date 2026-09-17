@@ -1,17 +1,17 @@
 class Solution:
     def numFactoredBinaryTrees(self, arr: List[int]) -> int:
-        total_nums = len(arr)
-        moduler = 1000000007
-        count_product_dict = {num: 1 for num in arr}
         arr.sort()
+        subtree = {}
 
-        for i in range(1, total_nums):
-            for j in range(i):
-                quotient = arr[i] // arr[j]
-                if quotient < 2 or math.sqrt(arr[i]) > arr[i- 1]:
+        for root in arr:
+            subtree[root] = 1
+
+            for factor in arr:
+                if factor >= root:
                     break
-                if arr[i] % arr[j] == 0:
-                    count_product_dict[arr[i]] += count_product_dict[arr[j]] * count_product_dict.get(quotient, 0)
-                    count_product_dict[arr[i]] %= moduler
-                    
-        return sum(count_product_dict.values()) % moduler
+            
+                if root % factor == 0 and root // factor in subtree:
+                    subtree[root] += subtree[factor] * subtree[root // factor]
+
+        total_trees = sum(subtree.values())
+        return total_trees % (10**9 + 7)       
