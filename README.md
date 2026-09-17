@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-short-encoding-of-words](https://github.com/Harish661166/leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0822-card-flipping-game](https://github.com/Harish661166/leetcode/tree/main/0822-card-flipping-game/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Harish661166/leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Harish661166/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0805-split-array-with-same-average](https://github.com/Harish661166/leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/Harish661166/leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Harish661166/leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Harish661166/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harish661166/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-short-encoding-of-words](https://github.com/Harish661166/leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Harish661166/leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0824-goat-latin](https://github.com/Harish661166/leetcode/tree/main/0824-goat-latin/) | Easy |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Harish661166/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
