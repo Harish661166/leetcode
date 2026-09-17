@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0822-card-flipping-game](https://github.com/Harish661166/leetcode/tree/main/0822-card-flipping-game/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Harish661166/leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Harish661166/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Harish661166/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Harish661166/leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
+| [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -676,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Harish661166/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/Harish661166/leetcode/tree/main/0815-bus-routes/) | Hard |
+| [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -749,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-valid-tic-tac-toe-state](https://github.com/Harish661166/leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0803-bricks-falling-when-hit](https://github.com/Harish661166/leetcode/tree/main/0803-bricks-falling-when-hit/) | Hard |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Harish661166/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -962,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/Harish661166/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Harish661166/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0803-bricks-falling-when-hit](https://github.com/Harish661166/leetcode/tree/main/0803-bricks-falling-when-hit/) | Hard |
+| [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
