@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-binary-trees-with-factors](https://github.com/Harish661166/leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Harish661166/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-transform-to-chessboard](https://github.com/Harish661166/leetcode/tree/main/0782-transform-to-chessboard/) | Hard |
 | [0784-letter-case-permutation](https://github.com/Harish661166/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/Harish661166/leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -733,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0809-expressive-words](https://github.com/Harish661166/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Harish661166/leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Harish661166/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
@@ -764,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-bricks-falling-when-hit](https://github.com/Harish661166/leetcode/tree/main/0803-bricks-falling-when-hit/) | Hard |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Harish661166/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -777,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Harish661166/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/Harish661166/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
+| [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
