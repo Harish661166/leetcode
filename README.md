@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
+| [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0815-bus-routes](https://github.com/Harish661166/leetcode/tree/main/0815-bus-routes/) | Hard |
 | [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
+| [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -867,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harish661166/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Harish661166/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
