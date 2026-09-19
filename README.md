@@ -666,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-find-and-replace-in-string](https://github.com/Harish661166/leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0838-push-dominoes](https://github.com/Harish661166/leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/Harish661166/leetcode/tree/main/0842-split-array-into-fibonacci-sequence/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -727,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/Harish661166/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Harish661166/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0816-ambiguous-coordinates](https://github.com/Harish661166/leetcode/tree/main/0816-ambiguous-coordinates/) | Medium |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/Harish661166/leetcode/tree/main/0842-split-array-into-fibonacci-sequence/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
