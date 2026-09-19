@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/Harish661166/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/Harish661166/leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0838-push-dominoes](https://github.com/Harish661166/leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Harish661166/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harish661166/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -715,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Harish661166/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -879,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/Harish661166/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1062,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/Harish661166/leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
