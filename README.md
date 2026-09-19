@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/Harish661166/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0846-hand-of-straights](https://github.com/Harish661166/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Harish661166/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0833-find-and-replace-in-string](https://github.com/Harish661166/leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
+| [0846-hand-of-straights](https://github.com/Harish661166/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-binary-trees-with-factors](https://github.com/Harish661166/leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Harish661166/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/Harish661166/leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/Harish661166/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting
@@ -929,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0781-rabbits-in-forest](https://github.com/Harish661166/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Harish661166/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Harish661166/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0846-hand-of-straights](https://github.com/Harish661166/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
