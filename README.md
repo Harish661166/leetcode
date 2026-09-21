@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0848-shifting-letters](https://github.com/Harish661166/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [0850-rectangle-area-ii](https://github.com/Harish661166/leetcode/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0851-loud-and-rich](https://github.com/Harish661166/leetcode/tree/main/0851-loud-and-rich/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harish661166/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Harish661166/leetcode/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0826-most-profit-assigning-work](https://github.com/Harish661166/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harish661166/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -1149,4 +1151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0850-rectangle-area-ii](https://github.com/Harish661166/leetcode/tree/main/0850-rectangle-area-ii/) | Hard |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harish661166/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
