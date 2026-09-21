@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-escape-the-ghosts](https://github.com/Harish661166/leetcode/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Harish661166/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/Harish661166/leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Harish661166/leetcode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Harish661166/leetcode/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Harish661166/leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0803-bricks-falling-when-hit](https://github.com/Harish661166/leetcode/tree/main/0803-bricks-falling-when-hit/) | Hard |
@@ -765,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Harish661166/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/Harish661166/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Harish661166/leetcode/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Harish661166/leetcode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0809-expressive-words](https://github.com/Harish661166/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Harish661166/leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Harish661166/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
