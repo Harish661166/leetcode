@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/Harish661166/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0848-shifting-letters](https://github.com/Harish661166/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [0850-rectangle-area-ii](https://github.com/Harish661166/leetcode/tree/main/0850-rectangle-area-ii/) | Hard |
+| [0851-loud-and-rich](https://github.com/Harish661166/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0851-loud-and-rich](https://github.com/Harish661166/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -893,10 +895,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [0851-loud-and-rich](https://github.com/Harish661166/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/Harish661166/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
+| [0851-loud-and-rich](https://github.com/Harish661166/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1132,6 +1136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Harish661166/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0851-loud-and-rich](https://github.com/Harish661166/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
