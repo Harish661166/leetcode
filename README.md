@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-prefix-and-suffix-search](https://github.com/Harish661166/leetcode/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Harish661166/leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0763-partition-labels](https://github.com/Harish661166/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0771-jewels-and-stones](https://github.com/Harish661166/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/Harish661166/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0753-cracking-the-safe](https://github.com/Harish661166/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0761-special-binary-string](https://github.com/Harish661166/leetcode/tree/main/0761-special-binary-string/) | Hard |
+| [0763-partition-labels](https://github.com/Harish661166/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0771-jewels-and-stones](https://github.com/Harish661166/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -761,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harish661166/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Harish661166/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Harish661166/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0763-partition-labels](https://github.com/Harish661166/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Harish661166/leetcode/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0809-expressive-words](https://github.com/Harish661166/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Harish661166/leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -935,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Harish661166/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harish661166/leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0763-partition-labels](https://github.com/Harish661166/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0765-couples-holding-hands](https://github.com/Harish661166/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0767-reorganize-string](https://github.com/Harish661166/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Harish661166/leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
