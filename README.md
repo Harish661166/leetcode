@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-find-and-replace-in-string](https://github.com/Harish661166/leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0846-hand-of-straights](https://github.com/Harish661166/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [0859-buddy-strings](https://github.com/Harish661166/leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harish661166/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0842-split-array-into-fibonacci-sequence](https://github.com/Harish661166/leetcode/tree/main/0842-split-array-into-fibonacci-sequence/) | Medium |
 | [0848-shifting-letters](https://github.com/Harish661166/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Harish661166/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0859-buddy-strings](https://github.com/Harish661166/leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
