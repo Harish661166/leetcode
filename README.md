@@ -586,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Harish661166/leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0770-basic-calculator-iv](https://github.com/Harish661166/leetcode/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0853-car-fleet](https://github.com/Harish661166/leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Harish661166/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -693,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/Harish661166/leetcode/tree/main/0842-split-array-into-fibonacci-sequence/) | Medium |
 | [0848-shifting-letters](https://github.com/Harish661166/leetcode/tree/main/0848-shifting-letters/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Harish661166/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harish661166/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -1091,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Harish661166/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
