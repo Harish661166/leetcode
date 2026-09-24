@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Harish661166/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Harish661166/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Harish661166/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Harish661166/leetcode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harish661166/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0861-score-after-flipping-matrix](https://github.com/Harish661166/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Harish661166/leetcode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Harish661166/leetcode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -841,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Harish661166/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Harish661166/leetcode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
