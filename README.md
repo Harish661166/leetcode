@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0846-hand-of-straights](https://github.com/Harish661166/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0859-buddy-strings](https://github.com/Harish661166/leetcode/tree/main/0859-buddy-strings/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harish661166/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harish661166/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Harish661166/leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -546,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/Harish661166/leetcode/tree/main/0851-loud-and-rich/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -577,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0687-longest-univalue-path](https://github.com/Harish661166/leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harish661166/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Harish661166/leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -753,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0839-similar-string-groups](https://github.com/Harish661166/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
