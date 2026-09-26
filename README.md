@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/Harish661166/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0859-buddy-strings](https://github.com/Harish661166/leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Harish661166/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0814-binary-tree-pruning](https://github.com/Harish661166/leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Harish661166/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/Harish661166/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -585,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harish661166/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Harish661166/leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harish661166/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -765,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Harish661166/leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harish661166/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harish661166/leetcode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Harish661166/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -975,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/Harish661166/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Harish661166/leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Harish661166/leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1220,4 +1226,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Harish661166/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 <!---LeetCode Topics End-->
