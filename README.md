@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-consecutive-numbers-sum](https://github.com/Harish661166/leetcode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0836-rectangle-overlap](https://github.com/Harish661166/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/Harish661166/leetcode/tree/main/0858-mirror-reflection/) | Medium |
+| [0866-prime-palindrome](https://github.com/Harish661166/leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Harish661166/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harish661166/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0858-mirror-reflection](https://github.com/Harish661166/leetcode/tree/main/0858-mirror-reflection/) | Medium |
+| [0866-prime-palindrome](https://github.com/Harish661166/leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -1234,4 +1236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harish661166/leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0866-prime-palindrome](https://github.com/Harish661166/leetcode/tree/main/0866-prime-palindrome/) | Medium |
 <!---LeetCode Topics End-->
