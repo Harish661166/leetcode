@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/Harish661166/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Harish661166/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harish661166/leetcode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [0867-transpose-matrix](https://github.com/Harish661166/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harish661166/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -862,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/Harish661166/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Harish661166/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harish661166/leetcode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [0867-transpose-matrix](https://github.com/Harish661166/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -875,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Harish661166/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0749-contain-virus](https://github.com/Harish661166/leetcode/tree/main/0749-contain-virus/) | Hard |
 | [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/Harish661166/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
