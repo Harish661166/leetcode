@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Harish661166/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Harish661166/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/Harish661166/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Harish661166/leetcode/tree/main/0233-number-of-digit-one/) | Hard |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harish661166/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Harish661166/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Harish661166/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Harish661166/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Harish661166/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
@@ -793,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Harish661166/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0282-expression-add-operators](https://github.com/Harish661166/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0306-additive-number](https://github.com/Harish661166/leetcode/tree/main/0306-additive-number/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
@@ -1151,6 +1154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harish661166/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Harish661166/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Harish661166/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Harish661166/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harish661166/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
