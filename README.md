@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Harish661166/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harish661166/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1861-rotating-the-box](https://github.com/Harish661166/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Harish661166/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0838-push-dominoes](https://github.com/Harish661166/leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Harish661166/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1861-rotating-the-box](https://github.com/Harish661166/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Pigeonhole Principle
@@ -871,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/Harish661166/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Harish661166/leetcode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0867-transpose-matrix](https://github.com/Harish661166/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1861-rotating-the-box](https://github.com/Harish661166/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
