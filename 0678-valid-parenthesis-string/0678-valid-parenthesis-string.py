@@ -1,23 +1,16 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        mini=0
-        maxi=0
-        for i in s:
-            if i=="(":
-                mini+=1
-                maxi+=1
-            elif i==")":
-                mini-=1
-                maxi-=1
+        leftMin, leftMax = 0, 0
+
+        for c in s:
+            if c == "(":
+                leftMin, leftMax = leftMin + 1, leftMax + 1
+            elif c == ")":
+                leftMin, leftMax = leftMin - 1, leftMax - 1
             else:
-                mini-=1
-                maxi+=1
-            if maxi<0:
+                leftMin, leftMax = leftMin - 1, leftMax + 1
+            if leftMax < 0:
                 return False
-            if mini<0:
-                mini=0
-        if mini==0:
-            return True
-        else:
-            return False
-            
+            if leftMin < 0:
+                leftMin = 0
+        return leftMin == 0
