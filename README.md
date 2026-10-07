@@ -668,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Harish661166/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0282-expression-add-operators](https://github.com/Harish661166/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0290-word-pattern](https://github.com/Harish661166/leetcode/tree/main/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Harish661166/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/Harish661166/leetcode/tree/main/0306-additive-number/) | Medium |
 | [0336-palindrome-pairs](https://github.com/Harish661166/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0385-mini-parser](https://github.com/Harish661166/leetcode/tree/main/0385-mini-parser/) | Medium |
@@ -758,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Harish661166/leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Harish661166/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0310-minimum-height-trees](https://github.com/Harish661166/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harish661166/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0488-zuma-game](https://github.com/Harish661166/leetcode/tree/main/0488-zuma-game/) | Hard |
@@ -805,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Harish661166/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0282-expression-add-operators](https://github.com/Harish661166/leetcode/tree/main/0282-expression-add-operators/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Harish661166/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/Harish661166/leetcode/tree/main/0306-additive-number/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/Harish661166/leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Harish661166/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
