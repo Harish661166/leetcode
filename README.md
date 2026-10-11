@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harish661166/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1861-rotating-the-box](https://github.com/Harish661166/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Harish661166/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harish661166/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Harish661166/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harish661166/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harish661166/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Harish661166/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harish661166/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Combinatorics
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harish661166/leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Harish661166/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Harish661166/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harish661166/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -923,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0855-exam-room](https://github.com/Harish661166/leetcode/tree/main/0855-exam-room/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Harish661166/leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Harish661166/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Harish661166/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1046,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harish661166/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harish661166/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harish661166/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Harish661166/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harish661166/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harish661166/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
